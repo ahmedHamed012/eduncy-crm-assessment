@@ -118,6 +118,12 @@ npm run migrate:make migration_name
 npm run migrate:rollback
 ```
 
+### Seeding Some Data To The Database For Efficiency Test
+
+```sh
+npm run seed:run
+```
+
 ## Testing
 
 Run unit tests:
